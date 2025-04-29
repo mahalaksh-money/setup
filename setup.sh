@@ -1,3 +1,4 @@
+q!
 ﻿#!/bin/bash
 echo "Running Mahalaksh Money Server Setup (v1)..."
 
@@ -57,3 +58,4 @@ EOF
 
 # Done
 echo "Setup Completed Successfully!"
+q!
